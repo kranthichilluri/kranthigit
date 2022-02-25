@@ -1,0 +1,6 @@
+node {
+    git (this is the code for jenkins){
+        printf(i love my country)
+        git "https://github.com/kranthichilluri/kranthigit.git"
+    }
+}
